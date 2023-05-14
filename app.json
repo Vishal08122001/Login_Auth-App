@@ -1,0 +1,11 @@
+{
+  "name": "Login_Auth",
+  "displayName": "Login_Auth",
+  "extra": {
+    "eas": {
+      "projectId": "4aa21e58-3d8f-434f-8734-02673aa77ca4"
+    }
+  },
+  "owner": "vishal2580",
+  "slug": "login-auth"
+}
